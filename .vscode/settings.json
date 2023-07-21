@@ -1,0 +1,53 @@
+{
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "cognitoidentityserviceprovider",
+    "dashpivot",
+    "datetime",
+    "Denque",
+    "dynalite",
+    "Eventbridge",
+    "eventbus",
+    "flowsite",
+    "IGSI",
+    "middlewares",
+    "Oidc",
+    "Signin",
+    "sitemate",
+    "tanstack",
+    "timesheets",
+    "TWILIO",
+    "typedi",
+    "ulid"
+  ],
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "restoreTerminals.terminals": [
+    {
+      "splitTerminals": [
+        {
+          "name": "package",
+          "commands": []
+        },
+        {
+          "name": "watch",
+          "commands": []
+        }
+      ]
+    },
+    {
+      "splitTerminals": [
+        {
+          "name": "cdk",
+          "commands": []
+        },
+        {
+          "name": "cdk2",
+          "commands": []
+        }
+      ]
+    }
+  ],
+  "javascript.preferences.importMduleSpecifier": "non-relative"
+}

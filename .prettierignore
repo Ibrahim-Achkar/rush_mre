@@ -1,0 +1,7 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+## these are automatically built by rush and have different styling, so we don't want to format them
+**/common/scripts
