@@ -11,7 +11,7 @@
     "my-bulk-command": "my-bulk-command"
   },
   "devDependencies": {
-    "my-toolchain": "workspace:^1.0.0",
+    "my-toolchain": "workspace:*",
     "typescript": "^3.0.3"
   }
 }

@@ -7,8 +7,8 @@ importers:
 
   ../../apps/my-app:
     specifiers:
-      my-controls: workspace:^1.0.0
-      my-toolchain: workspace:^1.0.0
+      my-controls: workspace:*
+      my-toolchain: workspace:*
       prettier: 2.8.8
       prettier-plugin-tailwindcss: 0.4.1
       tailwindcss: 3.3.2
@@ -26,7 +26,7 @@ importers:
 
   ../../libraries/my-controls:
     specifiers:
-      my-toolchain: workspace:^1.0.0
+      my-toolchain: workspace:*
       typescript: ^3.0.3
     devDependencies:
       my-toolchain: link:../../tools/my-toolchain
